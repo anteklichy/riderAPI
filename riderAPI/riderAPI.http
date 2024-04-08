@@ -1,0 +1,6 @@
+@riderAPI_HostAddress = http://localhost:5197
+
+GET {{riderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
